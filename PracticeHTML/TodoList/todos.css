@@ -1,0 +1,11 @@
+li {
+	border: 2px dashed #2A5531
+}
+
+#special {
+	background: yellow;
+}
+
+.completed {
+	text-decoration: line-through;
+}

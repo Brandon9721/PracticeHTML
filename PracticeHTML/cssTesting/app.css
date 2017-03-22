@@ -1,0 +1,37 @@
+h1 {
+	color: rgb(45,200,25);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed rgb(255,100,80);
+}
+
+h2 {
+	color: rgb(90,150,200);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed rgb(150,100,200);
+}
+
+h3 {
+	color: rgb(175,85,25);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed rgb(45,100,255);
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://c1.staticflickr.com/4/3436/3805969710_4ce36790dc.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

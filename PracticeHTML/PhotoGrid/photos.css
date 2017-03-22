@@ -1,0 +1,14 @@
+/* img affects style of images */
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+/* affects title using h2 */
+h2	{
+	text-align: center;
+	border: 5px solid black;
+	padding: 2px;
+	margin: auto 5%;
+}
